@@ -11,5 +11,5 @@ class retangulo:
         return self.largura * self.altura
 
     # Método calcular o perímetro do retângulo.
-    def calcular_area(self) -> float:
+    def calcular_perimetro(self) -> float:
         return 2 * (self.largura + self.altura)
