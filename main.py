@@ -1,6 +1,6 @@
 # Importação do pacote e dos módulos orientados a objeto
-from .model import circulo
-from .model import retangulo
+from model import circulo
+from model import retangulo
 
 # Apresenta as opções de calculo
 print('Opções geométricas disponíveis:')
