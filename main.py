@@ -41,8 +41,6 @@ match escolha:
         print(f'A área do retângulo é: {area:.2f}')
         print(f'O perímetro do retângulo é: {perimetro: .2f}')
 
-
-
     case _:
         print('Opção Inválida...')
         exit()
